@@ -18,5 +18,7 @@
 
         <input type="submit" name="submit" value="send">
     </form>
+
+	<a href="sendemail.html">send email</a>
 </body>
 </html>
